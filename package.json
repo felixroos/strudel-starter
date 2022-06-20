@@ -1,0 +1,23 @@
+{
+  "name": "@strudel.cycles/starter",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "@strudel.cycles/core": "^0.1.0",
+    "@strudel.cycles/eval": "^0.1.1",
+    "@strudel.cycles/mini": "^0.1.1",
+    "@strudel.cycles/osc": "^0.1.0",
+    "@strudel.cycles/webaudio": "^0.1.1",
+    "@strudel.cycles/webdirt": "^0.1.0",
+    "events": "^3.3.0",
+    "webmidi": "^2.5.3"
+  }
+}
